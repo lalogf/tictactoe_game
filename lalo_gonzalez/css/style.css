@@ -1,0 +1,53 @@
+body{
+	margin: 0 auto;
+	text-align: center;
+	background-color: rgba(46, 204, 113,1.0)
+}
+
+td {
+	border: 1px solid white;
+	border-radius: 10%;
+	height: 180px;
+	width: 180px;
+	text-align: center;
+}
+
+table {
+	margin: 0 auto;
+	color: white;
+	font-size: 20px
+}
+
+div{
+	margin: 0 auto;
+}
+
+h1{
+	font-size: 40px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	color: white;
+}
+
+.markedx {
+	color: white;
+	font-size: 100px;
+	font-family: 'Josefin Sans', sans-serif;
+	text-align: center;
+	padding-top: 15px;
+}
+
+.markedo {
+	color: white;
+	font-size: 100px;
+	font-family: 'Josefin Sans', sans-serif;
+	text-align: center;
+	padding-top: 15px
+}
+
+.clicked {
+	background-color: rgba(52, 152, 219,1.0);
+}
+
+.clicked2 {
+	background-color: rgba(241, 196, 15,1.0);
+}
